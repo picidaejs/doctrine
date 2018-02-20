@@ -1,5 +1,5 @@
 {
-  "name": "@moyuyc/doctrine",
+  "name": "doctrine-fork",
   "description": "JSDoc parser",
   "homepage": "https://github.com/eslint/doctrine",
   "main": "lib/doctrine.js",
