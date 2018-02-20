@@ -1,5 +1,5 @@
 {
-  "name": "doctrine",
+  "name": "@moyuyc/doctrine",
   "description": "JSDoc parser",
   "homepage": "https://github.com/eslint/doctrine",
   "main": "lib/doctrine.js",
